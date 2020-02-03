@@ -2,7 +2,11 @@
 This repository contains all the datasets and reading materials related to this competition.
 
 ## Data source
-1. WHO, CDC, ECDC, NHC and DXY
+1. World Health Organization
+2. Centers for Disease Control and Prevention
+3. European Centre for Disease Prevention and Control
+4. National Health Commission of PRC
+5. https://ncov.dxy.cn/ncovh5/view/pneumonia
 
 ## Reading materials
 1. Maimuna S. Majumder, Kenneth D. Mandl.(2020). Early Tranimissibility Assessment of Wuhan virus.
