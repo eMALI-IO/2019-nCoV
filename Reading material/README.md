@@ -3,11 +3,16 @@
 ## Background Information
 1. Epidemic: [Link](https://en.wikipedia.org/wiki/Epidemic)
 2. Timeline of the 2019-20 Wuhan coronavirus outbreak: [Link](https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%9320_Wuhan_coronavirus_outbreak)
+3. The 2 key questions that will determine if the coronavirus outbreak becomes a pandemic: [Link](https://www.vox.com/2020/1/28/21079946/coronavirus-china-wuhan-deaths-pandemic)
+4. Latest SItuation of Novel Coronavirus Infection in Hong Kong: [Link](https://chp-dashboard.geodata.gov.hk/nia/en.html)
+5. Coronavirus 2019-nCoV Global Cases by Johns Hopkins CSSE: [Link](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+6. What Are Epidemics, Pandemics, and Outbreaks?: [Link](https://www.webmd.com/cold-and-flu/what-are-epidemics-pandemics-outbreaks)
+7. WHO | Epidemics: [Link](https://www.who.int/leishmaniasis/epidemic/epidemics/en/)
 
 ## R-nought (R0)
 1. Understanding R nought: [Link](https://youtu.be/jKUGZvW99os)
 2. What Is R0?: Gauging Contagious Infections  [Link](https://www.healthline.com/health/r-nought-reproduction-number)
-3. Notes on R0 (Part 1): [Link](https://github.com/eMALI-IO/2019-nCoV/blob/master/Reading%20material/Paper/Notes-on-R0.pdf)
+3. R0: How scientists quantify the intensity of an outbreak like coronavirus and its pandemic potential: [Link](http://theconversation.com/r0-how-scientists-quantify-the-intensity-of-an-outbreak-like-coronavirus-and-its-pandemic-potential-130777)
 
 ## Case Fatality Ratio (CFR)
 1. Case fatality rate | epidemiology: [Link](https://www.britannica.com/science/case-fatality-rate)
@@ -24,8 +29,6 @@
 3. SIR Example Part 2: [Link](https://youtu.be/gYSCJ7u6JwU)
 4. Discrete SIR infectious disease model, part 1: [Link](https://youtu.be/5y8ZJnsEBvU)
 5. Discrete SIR infectious disease model, part 2: [Link](https://youtu.be/0k2cA8nYQiA)
-6. SIR Model of an Epidemic: [Link](https://youtu.be/ISHVGtEyBPs)
-7. Notes on R0 (Part 2): [Link](https://github.com/eMALI-IO/2019-nCoV/blob/master/Reading%20material/Paper/Notes-on-R0.pdf)
 
 ### SI model (optional)
 1. Model of an infectious disease without immunity: [Link](https://youtu.be/GqOgEjfJhlc)
@@ -33,5 +36,7 @@
 
 ## IDEA model
 1. Early Tranimissibility Assessment of Wuhan virus: [Link](https://github.com/eMALI-IO/2019-nCoV/blob/master/Reading%20material/Paper/Early%20Tranimissibility%20Assessment%20of%20Wuhan%20virus.pdf)
-2. An IDEA for Short Term Outbreak Projection: [Link](https://github.com/eMALI-IO/2019-nCoV/blob/master/Reading%20material/Paper/An%20IDEA%20for%20Short%20Term%20Outbreak%20Projection.pdf)
 
+## Advanced materials (Require more Maths!)
+1. Notes on R0 (Part 1 & 2): [Link](https://github.com/eMALI-IO/2019-nCoV/blob/master/Reading%20material/Paper/Notes-on-R0.pdf)
+2. An IDEA for Short Term Outbreak Projection: [Link](https://github.com/eMALI-IO/2019-nCoV/blob/master/Reading%20material/Paper/An%20IDEA%20for%20Short%20Term%20Outbreak%20Projection.pdf)
