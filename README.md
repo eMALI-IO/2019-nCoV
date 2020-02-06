@@ -11,3 +11,5 @@ This repository contains all the datasets and reading materials related to this 
 ## Reading materials
 1. Maimuna S. Majumder, Kenneth D. Mandl.(2020). Early Tranimissibility Assessment of Wuhan virus.
 2. Fisman DN, Hauck TS, Tuite AR, Greer AL (2013) An IDEA for Short Term Outbreak Projection: Nearcasting Using the Basic Reproduction Number. PLoS ONE 8(12): e83622. doi:10.1371/journal.pone.0083622
+3. Ashleigh R. Tuite David N. Fisman. (2016). The IDEA Model: A Single Equation Approach to the Ebola Forecasting Challenge
+4. James Holland Jones. (2007). Notes On R0
