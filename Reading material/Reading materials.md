@@ -1,6 +1,6 @@
 # Reading materials
 
-## What is Epidemic
+## Background Information
 1. Epidemic: [Link](https://en.wikipedia.org/wiki/Epidemic)
 2. Timeline of the 2019-20 Wuhan coronavirus outbreak: [Link](https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%9320_Wuhan_coronavirus_outbreak)
 
