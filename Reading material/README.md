@@ -15,8 +15,6 @@ Basic reproduction number (R0) indicates how contagious an infectious disease is
 3. R0: How scientists quantify the intensity of an outbreak like coronavirus and its pandemic potential: [Link](http://theconversation.com/r0-how-scientists-quantify-the-intensity-of-an-outbreak-like-coronavirus-and-its-pandemic-potential-130777)
 
 ## Case Fatality Ratio (CFR)
-Case fatality ratio (CFR) indicates 
-
 1. Case fatality rate | epidemiology: [Link](https://www.britannica.com/science/case-fatality-rate)
 2. A deadly disease: measuring case fatality rates: [Link](https://youtu.be/pXY_KM_3kLU)
 
