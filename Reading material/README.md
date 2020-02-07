@@ -4,10 +4,8 @@
 1. Epidemic: [Link](https://en.wikipedia.org/wiki/Epidemic)
 2. Timeline of the 2019-20 Wuhan coronavirus outbreak: [Link](https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%9320_Wuhan_coronavirus_outbreak)
 3. The 2 key questions that will determine if the coronavirus outbreak becomes a pandemic: [Link](https://www.vox.com/2020/1/28/21079946/coronavirus-china-wuhan-deaths-pandemic)
-4. Latest SItuation of Novel Coronavirus Infection in Hong Kong: [Link](https://chp-dashboard.geodata.gov.hk/nia/en.html)
-5. Coronavirus 2019-nCoV Global Cases by Johns Hopkins CSSE: [Link](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
-6. What Are Epidemics, Pandemics, and Outbreaks?: [Link](https://www.webmd.com/cold-and-flu/what-are-epidemics-pandemics-outbreaks)
-7. WHO | Epidemics: [Link](https://www.who.int/leishmaniasis/epidemic/epidemics/en/)
+4. What Are Epidemics, Pandemics, and Outbreaks?: [Link](https://www.webmd.com/cold-and-flu/what-are-epidemics-pandemics-outbreaks)
+5. WHO | Epidemics: [Link](https://www.who.int/leishmaniasis/epidemic/epidemics/en/)
 
 ## R-nought (R0)
 1. Understanding R nought: [Link](https://youtu.be/jKUGZvW99os)
